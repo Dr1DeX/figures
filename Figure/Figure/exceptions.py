@@ -1,0 +1,3 @@
+class IncorrectParams(BaseException):
+    pass
+
