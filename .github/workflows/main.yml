@@ -2,7 +2,7 @@ name: CI for FiguresLib
 
 on:
   push:
-    branches: [master]
+    branches: [main]
 
 jobs:
 
