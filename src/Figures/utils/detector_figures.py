@@ -1,6 +1,6 @@
-from Figures.FiguresLib.circle import Circle
-from Figures.FiguresLib.triangle import Triangle
-from Figures.utils.exceptions import IncorrectParams
+from src.Figures.FiguresLib.circle import Circle
+from src.Figures.FiguresLib.triangle import Triangle
+from src.Figures.utils.exceptions import IncorrectParams
 
 
 def detector(len_figures, params):

@@ -1,6 +1,6 @@
 import unittest
-from Figures.FiguresLib.circle import Circle
-from Figures.FiguresLib.triangle import Triangle
+from src.Figures.FiguresLib.circle import Circle
+from src.Figures.FiguresLib.triangle import Triangle
 
 
 class TestCircle(unittest.TestCase):
