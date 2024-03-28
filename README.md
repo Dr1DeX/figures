@@ -4,7 +4,7 @@
 ## What it is? ##
 This module reads the user data and calculates the radius of a circle or triangle (there will be other shapes in the future).
 ##A little guide... ##
-Основной модуль запуска имеет следующую структуру:
+The main launcher has the following structure:
 
 	params = Commander.parse_command()
     if params:
