@@ -1,4 +1,5 @@
 # FiguresLib
+![workflow](https://github.com/DRyD3X/figures/actions/workflows/main.yml/badge.svg) 
 
 ## Что это такое? ##
 Этот модуль считывает данные пользователя и вычисляет радиус круга или треугольника(в дальнейшем будут и другие фигуры).
