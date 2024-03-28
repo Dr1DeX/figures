@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "FiguresLib_Dr1DeX"
+version = "0.0.1"
+authors = [
+    { name="Dr1DeX", email="diekilljoyzz@gmail.com" },
+]
+description = "Calculating sides figures"
+readme = "README.md"
+requires-python = ">=3.8"
+classfiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT Licence",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/Dr1DeX/figures"
+Issues = "https://github.com/Dr1DeX/figures/issues"
