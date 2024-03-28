@@ -1,10 +1,9 @@
 # FiguresLib
 ![workflow](https://github.com/Dr1DeX/figures/actions/workflows/main.yml/badge.svg) 
 
-## Что это такое? ##
-Этот модуль считывает данные пользователя и вычисляет радиус круга или треугольника(в дальнейшем будут и другие фигуры).
-
-## Немного гайда ##
+## What it is? ##
+This module reads the user data and calculates the radius of a circle or triangle (there will be other shapes in the future).
+##A little guide... ##
 Основной модуль запуска имеет следующую структуру:
 
 	params = Commander.parse_command()
@@ -12,18 +11,16 @@
         print(detector(len(params), params))
 
 
-Сначала считываются входные параметры, если параметр существует то передаются дальше в функцию-детектор,
-где реализована логика определения фигуры и вызова соответствующего метода класса фигуры.
+First, the input parameters are read, if the parameter exists, then they are passed on to the detector function,
+where the logic for defining a figure and calling the corresponding method of the figure class is implemented.
 
 
 ----------
 
 
 
-### Использование ###
-
-В консоли прописываем команду:
-
-	python runner.py
-
+### Using ###
+The module can be launched in several ways
+1) Installing the package ``pip install pip install -i https://test.pypi.org/simple/ FiguresLib-Dr1DeX``
+2) 
 Следуем дальнейшим указаниям.

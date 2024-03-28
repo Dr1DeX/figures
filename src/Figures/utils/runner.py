@@ -1,5 +1,5 @@
-from src.Figures.utils.command_interface import Commander
-from src.Figures.utils.detector_figures import detector
+from Figures.utils.command_interface import Commander
+from Figures.utils.detector_figures import detector
 
 
 def runner():

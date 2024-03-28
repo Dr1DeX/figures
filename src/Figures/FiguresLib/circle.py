@@ -1,6 +1,6 @@
 from math import pi
 
-from src.Figures.FiguresLib.BaseFigure import BaseFigure
+from Figures.FiguresLib.BaseFigure import BaseFigure
 
 
 class Circle(BaseFigure):

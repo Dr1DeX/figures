@@ -1,4 +1,4 @@
-from src.Figures.utils.exceptions import UnknownCommand
+from Figures.utils.exceptions import UnknownCommand
 
 
 class AcceptMethod:
